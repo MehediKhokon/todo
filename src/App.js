@@ -1,8 +1,13 @@
 import React from 'react'
-import './App.css'
+import TodoComponent from './component/TodoComponent'
+// import './App.css'
 
 function App() {
-  return <></>
+  return (
+    <>
+      <TodoComponent />
+    </>
+  )
 }
 
 export default App
