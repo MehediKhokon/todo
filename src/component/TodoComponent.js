@@ -9,9 +9,11 @@ function Todo({ todo, index, completeTodo }) {
     >
       {todo.text}
       <div>
-        <button onClick={() => completeTodo(index)}>
-          {todo.isComplete ? '' : 'complete'}
-        </button>
+        {todo.isComplete ? (
+          ''
+        ) : (
+          <button onClick={() => completeTodo(index)}>complete</button>
+        )}
       </div>
     </div>
   )
