@@ -4,6 +4,7 @@ This project demonstrated the basic of react app.
 
 #### Dependency list
 - React
+- React hook ( useState )
 - Custom CSS
 
 ### Live link
