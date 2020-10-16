@@ -1,6 +1,6 @@
 # ToDo App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project demonstrated the powerful react app.
+This project demonstrated the basic of react app.
 
 #### Dependency list
 - React
