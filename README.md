@@ -4,3 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### Dependency list
 - React
 - Custom CSS
+
+### Live link
+[*Click to open the todo app*](https://mehedikhokon.github.io/todo/)
